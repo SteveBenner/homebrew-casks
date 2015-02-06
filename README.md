@@ -1,5 +1,5 @@
 # Steve's Homebrew Casks
-Enjoy my collection of original [Homebrew Cask][1] formulae!
+Enjoy my collection of original [Homebrew Cask][1] formulae! (Currently empty)
 
 ## Browse
 #### Head over to [Games](#) or [Apps](#) for a rich overview of each package.
